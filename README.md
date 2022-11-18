@@ -10,6 +10,11 @@ This application can track up to three different workouts, each workout can trac
 - Workouts and exercises can all be edited.
 - An image representing the type of workout will be shown.
 
+## Examples
+
+![image](https://user-images.githubusercontent.com/86731699/202732043-05c1b2a5-dce5-4bb6-8324-86c758c226a7.png)
+
+![image](https://user-images.githubusercontent.com/86731699/202732315-04fab86d-fdbc-406d-a663-973183dd2e98.png)
 
 ## In progress
 
